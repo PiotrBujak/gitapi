@@ -1,0 +1,3 @@
+Niestety, dzisiaj podczas testowania zorientowałem się, że źle podszedłem do problemu i aplikacja nie zawsze działa poprawnie.
+Aby doprowadzić do ładu sposób, na który się zdecydowałem należy poprawić metodę getProjects, a konkretnie moment splitu Stringa na listę.
+Dziękuję za poswięcony czas.
